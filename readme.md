@@ -5,5 +5,5 @@ A sample [Spine](http://spinejs.com/) app with unit testing setup with [Jasmine]
 
 To run tests type the following:
 
-  cake test
+    cake test
 
